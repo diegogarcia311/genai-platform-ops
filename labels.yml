@@ -1,0 +1,39 @@
+- name: documentation
+  color: "0075ca"
+  description: Changes to markdown files, diagrams, or other documentation.
+
+- name: review
+  color: "fbca04"
+  description: Items ready for review, feedback, or approval.
+
+- name: vector-db
+  color: "e99695"
+  description: Tasks involving FAISS, OpenSearch, Pinecone, or vector databases.
+
+- name: llmops
+  color: "5319e7"
+  description: Related to LLM pipelines, chains, and orchestration frameworks.
+
+- name: infra
+  color: "1d76db"
+  description: Infrastructure, DevOps, or cloud platform work.
+
+- name: ci-cd
+  color: "0e8a16"
+  description: Continuous integration, deployment, pipelines.
+
+- name: contribution
+  color: "bfdadc"
+  description: PR/issue templates, guidelines, or best practices.
+
+- name: planning
+  color: "c2e0c6"
+  description: High-level strategy, roadmaps, or backlog items.
+
+- name: visual
+  color: "f9d0c4"
+  description: Diagrams, draw.io flows, and system visuals.
+
+- name: template
+  color: "cccccc"
+  description: GitHub issue or PR templates for contributor use.
